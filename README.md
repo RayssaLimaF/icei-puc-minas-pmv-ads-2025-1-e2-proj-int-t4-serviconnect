@@ -10,11 +10,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-Fernando Cardoso
-Gabriel Rodrigues
-Gabriela Alcântara
-Renata
-Vinícius Martins
+Fernando Cardoso  
+Gabriel Rodrigues  
+Gabriela Alcântara  
+Renata  
+Vinícius Martins  
 
 ## Orientador
 
