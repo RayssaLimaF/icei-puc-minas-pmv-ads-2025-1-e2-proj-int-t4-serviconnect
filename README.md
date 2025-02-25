@@ -6,7 +6,7 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto tem como objetivo desenvolver um sistema de back-end para a gestão de serviços prestados por terceiros. A aplicação permitirá o cadastro de prestadores e clientes, gerenciamento de solicitações de serviços, acompanhamento de status e registro de avaliações. Utilizando tecnologias modernas de desenvolvimento, o sistema garantirá eficiência, segurança e escalabilidade na comunicação entre prestadores e clientes. 
 
 ## Integrantes
 
