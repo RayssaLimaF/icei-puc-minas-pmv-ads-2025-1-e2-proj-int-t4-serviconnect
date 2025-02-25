@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 Fernando Cardoso  
 Gabriel Rodrigues  
 Gabriela Alcântara  
-Renata  
+Renata Rocha  
 Vinícius Martins  
 
 ## Orientador
