@@ -18,7 +18,7 @@ Vinícius Martins
 
 ## Orientador
 
-* Nome completo do professor 1
+Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
